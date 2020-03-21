@@ -1,0 +1,65 @@
+
+
+body{
+font-family: verdana;
+}
+header{
+padding-top: 10px;
+    width: 100%;
+    background-color: #cccccc;
+    padding-bottom: 10px;
+}
+header h2{
+color: #eee;
+display: inline;
+margin-left: 50px;
+}
+header nav{ 
+float: right;
+    padding-top: 5px;
+}
+header nav a{
+text-decoration: none;
+color: white;
+padding: 20px;
+}
+div{
+background-color: #373737;
+}
+div img{
+width: 100%;
+height: 400px;
+}
+section{
+	text-align: center;
+	display: block;
+}
+
+section article{
+margin-left: 8px;
+margin-right: 8px;
+text-align: justify;
+display: inline-block;
+width: 32%;
+}
+section article h3{
+padding: 10px;
+color: #fff;
+background-color: #303030;
+}
+p{
+color: white;
+}
+footer{
+text-align: center;
+padding: 20px;
+}
+hr{  border:none;
+  height: 20px;
+  width: 30%;
+height: 50px;
+margin-top: 0;
+border-bottom: 1px solid #1f1209;
+box-shadow: 0 30px 10px -10px #333;
+  margin: -50px auto 10px;
+}
